@@ -4,4 +4,4 @@ https://www.mdpi.com/1422-0067/20/18/4555
 
 
 Using chEMBL API 
-https://github.com/chembl/chembl_webresource_client
+https://github.com/chembl/chembl_webresource_client# QSAR-model
